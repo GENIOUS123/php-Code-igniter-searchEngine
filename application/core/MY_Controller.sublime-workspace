@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"updat",
+				"update_data"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"REQUEST",
+				"REQUEST_METHOD"
+			],
+			[
+				"extract",
+				"extract_data"
+			],
+			[
+				"add",
+				"Add_Data"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"password_ha",
+				"password_hash"
+			],
+			[
+				"th",
+				"thin\tborder"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"MY_Controller.php",
+			"assets/"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/tec_project/segment/vendor/Category.php",
+		"/C/wamp64/www/tec_project/view/category/Category_assign.php",
+		"/C/wamp64/www/tec_project/view/vendor/Vendor_setting.php",
+		"/C/wamp64/www/tec_project/view/vendor/updatevendor.php",
+		"/C/wamp64/www/tec_project/view/vendor/showvendor.php",
+		"/C/wamp64/www/tec_project/view/vendor/active_Vendor_setting.php",
+		"/C/wamp64/www/tec_project/view/account/common/common.php",
+		"/C/wamp64/www/tec_project/segment/vendor/Accounts.php",
+		"/C/wamp64/www/tec_project/view/account/Account_setting.php",
+		"/C/wamp64/www/tec_project/view/account/Account_entry.php",
+		"/C/wamp64/www/tec_project/config/Main_Controller.php",
+		"/C/wamp64/www/tec_project/view/reports/Reports_display.php",
+		"/C/wamp64/www/tec_project/segment/vendor/Reports.php",
+		"/C/wamp64/www/tec_project/view/Ratecard.php",
+		"/C/wamp64/www/tec_project/segment/Ratecard.php",
+		"/C/wamp64/www/tec_project/segment/vendor/Vendor.php",
+		"/C/wamp64/www/tec_project/view/item/Item_assign.php",
+		"/C/wamp64/www/tec_project/view/account/Account_display.php",
+		"/C/wamp64/www/tec_project/view/category/Category_add.php",
+		"/C/wamp64/www/tec_project/view/category/Category_edit.php",
+		"/C/wamp64/www/tec_project/segment/vendor/Item.php",
+		"/C/wamp64/www/tec_project/view/category/Category_active.php",
+		"/C/wamp64/www/tec_project/view/category/Category_setting.php",
+		"/C/wamp64/www/tec_project/view/item/Item_active.php",
+		"/C/wamp64/www/tec_project/view/item/Item_edit.php",
+		"/C/wamp64/www/tec_project/view/item/Item_setting.php",
+		"/C/wamp64/www/tec_project/view/item/Item_add.php",
+		"/C/wamp64/www/tec_project/logout.php",
+		"/C/wamp64/www/tec_project/main.php",
+		"/C/wamp64/www/TTBSmail/index.php",
+		"/C/Users/TEC India/Desktop/TTBSmail/index.html",
+		"/C/Users/TEC India/Desktop/index.html",
+		"/C/wamp64/www/tec_project/function/root.php",
+		"/C/wamp64/www/tec_project/other/head.php",
+		"/C/Users/TEC India/Desktop/TTBS Mumbai mailer 1nd model/index.html",
+		"/C/wamp64/www/tec_project/Ajax.Controller.php",
+		"/C/wamp64/www/tec_project/data/production/pdf/vendor/registration/520001429548030/1234567890.pdf",
+		"/C/wamp64/www/tec_project/data/production/pdf/vendor/registration/520001429548030/IMG_20200220_0001.pdf",
+		"/C/wamp64/www/tec_project/js/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js",
+		"/C/wamp64/www/tec_project/index.php",
+		"/C/wamp64/www/tec_project/segment/Pagination.php",
+		"/C/wamp64/www/tec_project/config/configcasa.php",
+		"/C/wamp64/www/tec_project/segment/vendor/active_Vendor_setting.php",
+		"/C/wamp64/www/tec_project/other/script.php",
+		"/C/wamp64/www/tec_project/css/css.css",
+		"/C/wamp64/www/tec_project/segment/view/vendor/Vendor_setting.php",
+		"/C/wamp64/www/tec_project/segment/view/Ratecard.php",
+		"/C/wamp64/www/tec_project/config/constant.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Orders.php",
+		"/C/wamp64/www/tec_project/function/data.php",
+		"/C/wamp64/www/tec_products/application/models/Dataload.php",
+		"/C/wamp64/www/tec_project/function/datainsert.php",
+		"/C/wamp64/www/tec_products/application/config/constants.php",
+		"/C/wamp64/www/tec_project/segment/createproject.php",
+		"/C/wamp64/www/tec_project/segment/Home.php",
+		"/C/wamp64/www/tec_projectC/application/views/public/common/head.php",
+		"/C/wamp64/www/tec_projectC/application/views/public/User_authonication.php",
+		"/C/wamp64/www/tec_projectC/application/views/public/common/header.php",
+		"/C/wamp64/www/tec_projectC/application/controllers/Welcome.php",
+		"/C/wamp64/www/tec_projectC/assets/css/css.css",
+		"/C/wamp64/www/tec_projectC/application/config/config.php",
+		"/C/wamp64/www/tec_projectC/application/core/MY_Controller.php",
+		"/C/wamp64/www/tec_projectC/application/config/database.php",
+		"/C/wamp64/www/tec_project/segment/mis_project.php",
+		"/C/Users/TEC India/Downloads/product-listing-CI-master/product-listing-CI-master/application/controllers/main.php",
+		"/C/wamp64/www/tec_products/application/views/public/common/script.php",
+		"/C/wamp64/www/tec_products/assets/css/css.css",
+		"/C/wamp64/www/tec_products/application/controllers/public/Shoppingcart.php",
+		"/C/wamp64/www/tec_products/application/views/public/Orders.php",
+		"/C/wamp64/www/tec_products/application/models/Shopping_cart_model.php",
+		"/C/wamp64/www/tec_products/application/models/Order_model.php",
+		"/C/wamp64/www/tec_products/application/views/public/Shoppingcart.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Success.php",
+		"/C/wamp64/www/tec_products/application/views/public/common/header.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Signup.php",
+		"/C/wamp64/www/tec_products/application/views/public/Forget.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Forgot.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Razorpay.php",
+		"/C/wamp64/www/tec_products/application/views/public/Success.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/User_authonication.php",
+		"/C/wamp64/www/tec_products/application/views/public/User_authonication.php",
+		"/C/wamp64/www/tec_products/application/views/public/Signup.php",
+		"/C/wamp64/www/tec_products/application/models/user/User_authonication_model.php",
+		"/C/wamp64/www/tec_products/application/views/errors/cli/error_db.php",
+		"/C/wamp64/www/tec_products/application/razorpay/checkout/automatic.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Logout.php",
+		"/C/wamp64/www/tec_products/application/core/MY_Controller.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/Payment.php",
+		"/C/wamp64/www/tec_products/application/razorpay/pay.php",
+		"/C/wamp64/www/tec_products/application/razorpay/verify.php",
+		"/C/wamp64/www/tec_products/application/controllers/public/pay.php",
+		"/C/Users/TEC India/Desktop/razorpay-php-testapp-master/checkout/automatic.php",
+		"/C/wamp64/www/tec_products/public/verify.php",
+		"/C/Users/TEC India/Desktop/razorpay-php-testapp-master/verify.php",
+		"/C/wamp64/www/tec_products/application/config/config.php",
+		"/C/Users/TEC India/Desktop/razorpay-php-testapp-master/config.php.sample",
+		"/C/Users/TEC India/Desktop/razorpay-php-testapp-master/pay.php",
+		"/C/wamp64/www/tec_products/application/razorpay/checkout/manual.php",
+		"/C/wamp64/www/tec_products/application/views/public/Razorpay.php",
+		"/C/Users/TEC India/Desktop/Razorpay.php",
+		"/C/wamp64/www/tec_products/application/controllers/Welcome.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/public/User_authonication.php",
+		"/C/wamp64/www/indiandarzi/application/models/Dataload.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/public/Razorpay.php",
+		"/C/wamp64/www/indiandarzi/application/config/constants.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/checkout.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/Shoppingcart.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/common/header.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/common/head.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/common/footer.php",
+		"/C/wamp64/www/indiandarzi/application/core/MY_Controller.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/public/Shoppingcart.php",
+		"/C/wamp64/www/indiandarzi/application/models/Shopping_cart_model.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/Home.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/User_authonication.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/public/Logout.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/public/Forgot.php",
+		"/C/wamp64/www/indiandarzi/application/config/config.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/common/script.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/Razorpay.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/Welcome.php",
+		"/C/wamp64/www/indiandarzi/application/config/paypal.php",
+		"/C/wamp64/www/indiandarzi/application/controllers/public/Payment.php",
+		"/C/wamp64/www/indiandarzi/application/libraries/Paypal_lib.php",
+		"/C/Users/TEC India/Downloads/razorpay-php/Razorpay.php",
+		"/C/Users/TEC India/Desktop/test/PayUMoney_form.php",
+		"/C/wamp64/www/indiandarzi/application/views/public/Payment.php",
+		"/C/Users/TEC India/Desktop/PHP_Bolt-master/index.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MY_Controller.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"application\\config\\database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
